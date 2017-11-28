@@ -21,7 +21,7 @@ Sample File
 #     return quotient
 
 
-# def multiplication(a, b):
+# def x(a, b):
 
 #     product = a * b
 
